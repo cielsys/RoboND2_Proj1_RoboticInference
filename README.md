@@ -11,7 +11,7 @@ The project report is [./report.pdf](report.pdf)<br/>
 
 ### Trained Models
 The trained models for the Udacity supplied dataset are located <br/>
-Task1 AlexNet [./Assets/models/Task1_alex](./Assets/models/Task1_alex)<br/>
+Task1 AlexNet [./Assets/models/Task1_alex](./Assets/models/Task1_alex) **NOT PRESENT - COULD NOT PUSH TO GITHUB**<br/> 
 Task1 GoogLeNetNet [./Assets/models/Task1_goog](./Assets/models/Task1_goog)<br/>
 
 The trained models for the custom dataset are located <br/>
