@@ -15,7 +15,7 @@ Task1 AlexNet [./Assets/models/Task1_alex](./Assets/models/Task1_alex) **NOT PRE
 Task1 GoogLeNet [./Assets/models/Task1_goog](./Assets/models/Task1_goog)<br/>
 
 The trained models for the custom dataset are located <br/>
-Task1 AlexNet [./Assets/models/Task1_alex](./Assets/models/Task1_alex)<br/>
+Task2 AlexNet [./Assets/models/Task1_alex](./Assets/models/Task1_alex)<br/>
 
 ### Report Images
 The image files included in the report.<br/>
