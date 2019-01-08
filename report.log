@@ -1,0 +1,402 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.29)  7 JAN 2019 19:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 458.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+-- Lines per column: 61 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen127
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen128
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 31.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 31
+.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.04124> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.72884> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.52061> on input line 31.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 65.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.03> on input line 65.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.62097> on input line 65.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.015> on input line 65.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<Assets/screenshots/P1_Evaluate_Alex01_x1.png, id=11, 729.72626pt x 540.0175pt>
+File: Assets/screenshots/P1_Evaluate_Alex01_x1.png Graphic file (type png)
+<use Assets/screenshots/P1_Evaluate_Alex01_x1.png>
+Package pdftex.def Info: Assets/screenshots/P1_Evaluate_Alex01_x1.png used on i
+nput line 128.
+(pdftex.def)             Requested size: 252.94499pt x 187.17967pt.
+
+<Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png, id=13, 712.6625pt x
+ 501.875pt>
+File: Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png Graphic file (t
+ype png)
+ <use Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png>
+Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.
+png used on input line 136.
+(pdftex.def)             Requested size: 252.94499pt x 178.12474pt.
+
+<Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png, id=
+14, 1580.90625pt x 542.025pt>
+File: Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png
+ Graphic file (type png)
+
+<use Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png>
+Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P2_google03_a
+dam_E5_accuracy.png used on input line 146.
+(pdftex.def)             Requested size: 252.94499pt x 86.7175pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png, id=15, 712.6
+625pt x 501.875pt>
+File: Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png Graphic 
+file (type png)
+
+<use Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png>
+Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P2_google03_a
+dam_E5.png used on input line 154.
+(pdftex.def)             Requested size: 252.94499pt x 178.12474pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./Assets/screenshots/P1_Evaluate_Alex01_x1.png> <./Assets/screenshots/Scree
+nshot_2019-01-01_P1_alex1_30E.png>]
+<Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png, id=21, 1174
+.3875pt x 466.74374pt>
+File: Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png Graphic
+ file (type png)
+
+<use Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png>
+Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_coins1_eval_g
+oogle01.png used on input line 165.
+(pdftex.def)             Requested size: 252.94499pt x 100.52599pt.
+
+<Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png, id=22, 110
+4.125pt x 803.0pt>
+File: Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png Graphi
+c file (type png)
+
+<use Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png>
+Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_coins1_train_
+google01.png used on input line 173.
+(pdftex.def)             Requested size: 252.94499pt x 183.95094pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Assets/testset2_10/report/correctcoins.JPG, id=23, 385.44pt x 379.4175pt>
+File: Assets/testset2_10/report/correctcoins.JPG Graphic file (type jpg)
+
+<use Assets/testset2_10/report/correctcoins.JPG>
+Package pdftex.def Info: Assets/testset2_10/report/correctcoins.JPG used on inp
+ut line 181.
+(pdftex.def)             Requested size: 252.94499pt x 248.99211pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Assets/testset2_10/report/IMG_2684.JPG, id=24, 2457.18pt x 2457.18pt>
+File: Assets/testset2_10/report/IMG_2684.JPG Graphic file (type jpg)
+
+<use Assets/testset2_10/report/IMG_2684.JPG>
+Package pdftex.def Info: Assets/testset2_10/report/IMG_2684.JPG used on input l
+ine 189.
+(pdftex.def)             Requested size: 252.94499pt x 252.93114pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Assets/testset2_10/report/IMG_2835.JPG, id=25, 2457.18pt x 2457.18pt>
+File: Assets/testset2_10/report/IMG_2835.JPG Graphic file (type jpg)
+
+<use Assets/testset2_10/report/IMG_2835.JPG>
+Package pdftex.def Info: Assets/testset2_10/report/IMG_2835.JPG used on input l
+ine 197.
+(pdftex.def)             Requested size: 252.94499pt x 252.93114pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png
+> <./Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png> <./Asset
+s/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png> <./Assets/screens
+hots/Screenshot_2019-01-01_coins1_train_google01.png> <./Assets/testset2_10/rep
+ort/correctcoins.JPG>] [4 <./Assets/testset2_10/report/IMG_2684.JPG> <./Assets/
+testset2_10/report/IMG_2835.JPG>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2543 strings out of 494953
+ 43246 string characters out of 6180977
+ 101837 words of memory out of 5000000
+ 5796 multiletter control sequences out of 15000+600000
+ 44236 words of font info for 92 fonts, out of 8000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 38i,8n,23p,1222b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dis
+t/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/he
+lvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on report.pdf (4 pages, 2370756 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
