@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.29)  7 JAN 2019 19:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.1.21)  24 JAN 2019 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -255,20 +255,20 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
 
 (Font)              Font shape `OT1/phv/b/sc' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 65.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.03> on input line 65.
+(Font)              <8.03> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.62097> on input line 65.
+(Font)              <5.62097> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.015> on input line 65.
+(Font)              <4.015> on input line 63.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 77.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -277,7 +277,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
 File: Assets/screenshots/P1_Evaluate_Alex01_x1.png Graphic file (type png)
 <use Assets/screenshots/P1_Evaluate_Alex01_x1.png>
 Package pdftex.def Info: Assets/screenshots/P1_Evaluate_Alex01_x1.png used on i
-nput line 128.
+nput line 126.
 (pdftex.def)             Requested size: 252.94499pt x 187.17967pt.
 
 <Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png, id=13, 712.6625pt x
@@ -286,7 +286,7 @@ File: Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png Graphic file (t
 ype png)
  <use Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.png>
 Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P1_alex1_30E.
-png used on input line 136.
+png used on input line 134.
 (pdftex.def)             Requested size: 252.94499pt x 178.12474pt.
 
 <Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png, id=
@@ -296,7 +296,7 @@ File: Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png
 
 <use Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png>
 Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P2_google03_a
-dam_E5_accuracy.png used on input line 146.
+dam_E5_accuracy.png used on input line 144.
 (pdftex.def)             Requested size: 252.94499pt x 86.7175pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -309,76 +309,85 @@ file (type png)
 
 <use Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png>
 Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_P2_google03_a
-dam_E5.png used on input line 154.
+dam_E5.png used on input line 152.
 (pdftex.def)             Requested size: 252.94499pt x 178.12474pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2 <./Assets/screenshots/P1_Evaluate_Alex01_x1.png> <./Assets/screenshots/Scree
-nshot_2019-01-01_P1_alex1_30E.png>]
-<Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png, id=21, 1174
+
+<Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png, id=16, 1174
 .3875pt x 466.74374pt>
 File: Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png Graphic
  file (type png)
 
 <use Assets/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png>
 Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_coins1_eval_g
-oogle01.png used on input line 165.
+oogle01.png used on input line 163.
 (pdftex.def)             Requested size: 252.94499pt x 100.52599pt.
 
-<Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png, id=22, 110
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png, id=17, 110
 4.125pt x 803.0pt>
 File: Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png Graphi
 c file (type png)
 
 <use Assets/screenshots/Screenshot_2019-01-01_coins1_train_google01.png>
 Package pdftex.def Info: Assets/screenshots/Screenshot_2019-01-01_coins1_train_
-google01.png used on input line 173.
+google01.png used on input line 171.
 (pdftex.def)             Requested size: 252.94499pt x 183.95094pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Assets/testset2_10/report/correctcoins.JPG, id=23, 385.44pt x 379.4175pt>
+<Assets/testset2_10/report/correctcoins.JPG, id=18, 385.44pt x 379.4175pt>
 File: Assets/testset2_10/report/correctcoins.JPG Graphic file (type jpg)
 
 <use Assets/testset2_10/report/correctcoins.JPG>
 Package pdftex.def Info: Assets/testset2_10/report/correctcoins.JPG used on inp
-ut line 181.
+ut line 179.
 (pdftex.def)             Requested size: 252.94499pt x 248.99211pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Assets/testset2_10/report/IMG_2684.JPG, id=24, 2457.18pt x 2457.18pt>
+<Assets/testset2_10/report/IMG_2684.JPG, id=19, 2457.18pt x 2457.18pt>
 File: Assets/testset2_10/report/IMG_2684.JPG Graphic file (type jpg)
 
 <use Assets/testset2_10/report/IMG_2684.JPG>
 Package pdftex.def Info: Assets/testset2_10/report/IMG_2684.JPG used on input l
-ine 189.
+ine 187.
 (pdftex.def)             Requested size: 252.94499pt x 252.93114pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Assets/testset2_10/report/IMG_2835.JPG, id=25, 2457.18pt x 2457.18pt>
+<Assets/testset2_10/report/IMG_2835.JPG, id=20, 2457.18pt x 2457.18pt>
 File: Assets/testset2_10/report/IMG_2835.JPG Graphic file (type jpg)
 
 <use Assets/testset2_10/report/IMG_2835.JPG>
 Package pdftex.def Info: Assets/testset2_10/report/IMG_2835.JPG used on input l
-ine 197.
+ine 195.
 (pdftex.def)             Requested size: 252.94499pt x 252.93114pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5_accuracy.png
-> <./Assets/screenshots/Screenshot_2019-01-01_P2_google03_adam_E5.png> <./Asset
-s/screenshots/Screenshot_2019-01-01_coins1_eval_google01.png> <./Assets/screens
-hots/Screenshot_2019-01-01_coins1_train_google01.png> <./Assets/testset2_10/rep
-ort/correctcoins.JPG>] [4 <./Assets/testset2_10/report/IMG_2684.JPG> <./Assets/
-testset2_10/report/IMG_2835.JPG>] (./report.aux) ) 
+[2 <./Assets/screenshots/P1_Evaluate_Alex01_x1.png> <./Assets/screenshots/Scree
+nshot_2019-01-01_P1_alex1_30E.png>] [3 <./Assets/screenshots/Screenshot_2019-01
+-01_P2_google03_adam_E5_accuracy.png> <./Assets/screenshots/Screenshot_2019-01-
+01_P2_google03_adam_E5.png> <./Assets/screenshots/Screenshot_2019-01-01_coins1_
+eval_google01.png> <./Assets/screenshots/Screenshot_2019-01-01_coins1_train_goo
+gle01.png>] [4 <./Assets/testset2_10/report/correctcoins.JPG> <./Assets/testset
+2_10/report/IMG_2684.JPG> <./Assets/testset2_10/report/IMG_2835.JPG>]
+(./report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  2543 strings out of 494953
  43246 string characters out of 6180977
@@ -387,13 +396,12 @@ Here is how much of TeX's memory you used:
  44236 words of font info for 92 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
  38i,8n,23p,1222b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dis
-t/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/he
-lvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on report.pdf (4 pages, 2370756 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palati
+no/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on report.pdf (4 pages, 2354571 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
